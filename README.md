@@ -2,7 +2,7 @@
 
 ## Overview
 
-iKid is a simple “joke app” built for course "Mobile Development: iOD". The app displays jokes in three categories: Good, Pun, and Dad, Knock Knock, and Image. Each joke shows a question and a punchline, with a “next” button to flip between them.
+iKid is a simple “joke app” built for course "Mobile Development: iOS". The app displays jokes in three categories: Good, Pun, and Dad, Knock Knock, and Image. Each joke shows a question and a punchline, with a “next” button to flip between them.
 
 Features
 	•	Tab bar or toolbar to switch between joke categories
